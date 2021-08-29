@@ -1,2 +1,2 @@
-# P-gina-de-ejemplo
+# Página-de-ejemplo
 Ejemplo de una página web
